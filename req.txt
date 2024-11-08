@@ -1,0 +1,10 @@
+SpeechRecognition
+pyttsx3
+datetime
+wikipedia
+pyjokes
+pywhatkit
+opencv-python
+googletrans
+pynput
+PyPDF2
