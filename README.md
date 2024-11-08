@@ -19,6 +19,9 @@ This repository contains a collection of 15 Python projects that I solved in 202
 - [weatherAPI.py](#weatherapipy)
 - [YtVideodownloader.py](#ytvideodownloaderpy)
 
+## req
+- **Description**: Respective Modules were Listed Here.
+
 ## AutoWhatsapp.py
 - **Description**: This script automates sending WhatsApp messages to multiple contacts using the web version of WhatsApp.
 - **Technologies Used**: Python, Selenium
@@ -64,10 +67,6 @@ This repository contains a collection of 15 Python projects that I solved in 202
 - **Technologies Used**: Python, qrcode
 - **Key Learnings**: This project introduced me to QR code generation using the qrcode library.
 
-## req
-- **Description**: A simple project to make HTTP requests using the Python `requests` library.
-- **Technologies Used**: Python, requests
-- **Key Learnings**: I learned how to make HTTP requests, handle responses, and work with web data.
 
 ## riya.py
 - **Description**: A simple chatbot that interacts with the user in a conversational manner.
