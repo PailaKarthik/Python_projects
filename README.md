@@ -100,4 +100,4 @@ In 2023, I solved various Python projects to improve my programming skills, with
 ---
 
 #### About Me:
-I'm a Python enthusiast, and I started exploring coding seriously in 2023. I'm continuously improving my skills through projects and learning new technologies. If you'd like to connect or collaborate, feel free to reach out via [LinkedIn](#) or [Email](#).
+I'm a Python enthusiast, and I started exploring coding seriously in 2023. I'm continuously improving my skills through projects and learning new technologies. If you'd like to connect or collaborate, feel free to reach out via [LinkedIn](#https://www.linkedin.com/in/paila-karthik/).
